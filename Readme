@@ -1,0 +1,3 @@
+The docker file was created so that a Docker image could be created to run Nginx Server and deploy the docker image via AWS Elastic Beanstalk. 
+
+1. Login to console and search for Elastic BeanStalk and create new environment
